@@ -1,3 +1,10 @@
+## [2.1.3](https://github.com/DidandKO/semantic-release-github-actions-simple-example/compare/v2.1.2...v2.1.3) (2026-06-10)
+
+
+### Bug Fixes
+
+* rename package to avoid npm name conflict ([2eeb6c7](https://github.com/DidandKO/semantic-release-github-actions-simple-example/commit/2eeb6c7b6c221ad9d21194fd0cf26a0d5460909d))
+
 ## [2.1.2](https://github.com/DidandKO/semantic-release-github-actions-simple-example/compare/v2.1.1...v2.1.2) (2026-06-10)
 
 
