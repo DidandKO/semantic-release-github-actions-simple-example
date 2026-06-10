@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/DidandKO/semantic-release-github-actions-simple-example/compare/v2.1.1...v2.1.2) (2026-06-10)
+
+
+### Bug Fixes
+
+* exclude .env from npm package ([a99399f](https://github.com/DidandKO/semantic-release-github-actions-simple-example/commit/a99399faf62d311413033162261c18f66ba84566))
+
 ## [2.1.1](https://github.com/DidandKO/semantic-release-github-actions-simple-example/compare/v2.1.0...v2.1.1) (2026-06-10)
 
 
