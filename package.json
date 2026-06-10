@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:BondarenkoAlex/semantic-release-github-actions-simple-example.git"
+    "url": "git@github.com:DidandKO/semantic-release-github-actions-simple-example.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,7 +23,7 @@
     "node": ">=20.8.1"
   },
   "bugs": {
-    "url": "https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/issues"
+    "url": "https://github.com/DidandKO/semantic-release-github-actions-simple-example/issues"
   },
-  "homepage": "https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example#readme"
+  "homepage": "https://github.com/DidandKO/semantic-release-github-actions-simple-example#readme"
 }
