@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/DidandKO/semantic-release-github-actions-simple-example/compare/v2.1.0...v2.1.1) (2026-06-10)
+
+
+### Bug Fixes
+
+* remove redundant word from MY_CONST ([90290e4](https://github.com/DidandKO/semantic-release-github-actions-simple-example/commit/90290e4fff13002b396763237ea287dbc9bebfbe))
+
 # [2.1.0](https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/compare/v2.0.0...v2.1.0) (2024-03-10)
 
 
